@@ -25,10 +25,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CTF](https://img.shields.io/badge/CTF-Capture_The_Flag-red?style=for-the-badge&logo=flag&logoColor=white)
----
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OneThing4101&show_icons=true&theme=dark)
 <!--
 **OneThing4101/OneThing4101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
