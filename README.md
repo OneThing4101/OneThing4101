@@ -1,26 +1,17 @@
-## My Cybersecurity Profile
+## 🛡️ My Cybersecurity Profile
 
-
----
-
-## 🚀 Platforms
-
-### 🟢 TryHackMe
-* **Username:** [Luc1ferrrr](https://tryhackme.com/p/Luc1ferrrr)
-* **Status:**
+* **TryHackMe:**
   <br>
   <a href="https://tryhackme.com/p/Luc1ferrrr" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Luc1ferrrr.png" alt="TryHackMe Profile" />
   </a>
 
-### 📦 Hack The Box
-* **Profile:** [HackTheBox Profile](https://profile.hackthebox.com/profile/019cf030-805b-73aa-8afc-723851932964)
-* **Status:**
+* **Hack The Box:**
   <br>
   <a href="https://profile.hackthebox.com/profile/019cf030-805b-73aa-8afc-723851932964" target="_blank">
-    <img src="https://www.hackthebox.eu/badge/image/1913567" alt="HackTheBox Badge" />
+    <img src="https://www.hackthebox.eu/badge/image/2000570" alt="HackTheBox Profile" />
   </a>
-  *(Санамж: Хэрэв HTB badge тань харагдахгүй байвал HTB Settings -> Profile хэсгээс Badge-ийг "Public" болгоорой).*
+  
 
 ---
 
