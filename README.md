@@ -5,7 +5,7 @@
 
 | TryHackMe | Hack The Box |
 | :---: | :---: |
-| <a href="https://tryhackme.com/p/Luc1ferrrr" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Luc1ferrrr.png" alt="TryHackMe Profile" /></a> | <a href="https://profile.hackthebox.com/profile/019cf030-805b-73aa-8afc-723851932964" target="_blank"><img src="https://badge.hackthebox.com/2000570.png" alt="Luc1ferrrr's HackTheBox Profile" /></a> |
+| <a href="https://tryhackme.com/p/Luc1ferrrr" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Luc1ferrrr.png" alt="TryHackMe Profile" /></a> | <a href="https://profile.hackthebox.com/profile/019cf030-805b-73aa-8afc-723851932964" target="_blank"><img src="https://badge.hackthebox.com/2000570.png" alt="HackTheBox Profile" /></a> |
 
 <!--
 **OneThing4101/OneThing4101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
