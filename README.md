@@ -1,8 +1,9 @@
- ## My Cybersecurity Profiles
->
+# 🛡️ My Cybersecurity Profiles
+
+
 > * **Google Bug Hunters:** 
 >   <a href="https://bughunters.google.com/profile/6d24b30e-a4c0-4c61-9d17-03533552df25" target="_blank">
->     <img src="https://img.shields.io/badge/Google_Bug_安定-Bug_Hunter-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Bug Hunters Profile" />
+>     <img src="https://img.shields.io/badge/Google-Bug_Hunter-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Bug Hunters Profile" />
 >   </a>
 >
 > * **Hack The Box:** 
@@ -16,6 +17,16 @@
 >   </a>
 
 ---
+
+## 🛠️ Skills & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OneThing4101&show_icons=true&theme=dark)
 <!--
 **OneThing4101/OneThing4101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
