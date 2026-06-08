@@ -18,11 +18,13 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF-Capture_The_Flag-red?style=for-the-badge&logo=flag&logoColor=white)
 ---
 
 ## 📈 GitHub Stats
