@@ -1,23 +1,26 @@
-## 🛡️ My Cybersecurity profile
+## My Cybersecurity Profile
 
-Biography болон өөрийнхөө тухай товч танилцуулга энд бичнэ. Кибер аюулгүй байдлын чиглэлээр сонирхон судалж буй зүйлсээ хуваалцаарай.
 
 ---
 
-## 🚀 My Cybersecurity Profiles
+## 🚀 Platforms
 
-* **TryHackMe:**
+### 🟢 TryHackMe
+* **Username:** [Luc1ferrrr](https://tryhackme.com/p/Luc1ferrrr)
+* **Status:**
   <br>
   <a href="https://tryhackme.com/p/Luc1ferrrr" target="_blank">
-    <img src="[https://tryhackme-badges.s3.amazonaws.com/OneThing4101.png](https://tryhackme-images.s3.amazonaws.com/user-avatars/679cd4cf444667611c636ee9-1755321513914)" alt="TryHackMe Profile" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Luc1ferrrr.png" alt="TryHackMe Profile" />
   </a>
 
-* **Hack The Box:**
+### 📦 Hack The Box
+* **Profile:** [HackTheBox Profile](https://profile.hackthebox.com/profile/019cf030-805b-73aa-8afc-723851932964)
+* **Status:**
   <br>
-  <!-- Өөрийн HTB ID-г олж байгаад доорх тоог солиорой -->
-  <a href="[https://app.hackthebox.com/profile/1193567](https://profile.hackthebox.com/profile/019cf030-805b-73aa-8afc-723851932964)" target="_blank">
-    <img src="[https://www.hackthebox.eu/badge/image/1193567](https://htb-sso-prod-public-storage.s3.eu-central-1.amazonaws.com/users/77a07544-8ad0-47e4-a76e-9588c59bc313-avatar.png)" alt="HackTheBox Profile" />
+  <a href="https://profile.hackthebox.com/profile/019cf030-805b-73aa-8afc-723851932964" target="_blank">
+    <img src="https://www.hackthebox.eu/badge/image/1913567" alt="HackTheBox Badge" />
   </a>
+  *(Санамж: Хэрэв HTB badge тань харагдахгүй байвал HTB Settings -> Profile хэсгээс Badge-ийг "Public" болгоорой).*
 
 ---
 
